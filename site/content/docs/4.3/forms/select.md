@@ -53,7 +53,7 @@ The `multiple` attribute is also supported:
 As is the `size` attribute:
 
 {{< example >}}
-<select class="form-select" size="3" aria-label="size 3 select example>
+<select class="form-select" size="3" aria-label="size 3 select example">
   <option selected>Open this select menu</option>
   <option value="1">One</option>
   <option value="2">Two</option>
